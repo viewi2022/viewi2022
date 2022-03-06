@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @viewi2022
+- 👀 I’m interested in distributed system
+- 🌱 I’m currently learning golang, system design
+- 💞️ I’m looking to collaborate on golang progect
+- 📫 How to reach me ? - don't 
